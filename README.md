@@ -8,7 +8,8 @@ nebula-ansible is a nebula cluster deployment tool based on ansible playbook.
 
 ### Install ansible on Control Machine
 
-For CentOS, 
+For CentOS,
+<!-- TODO -->
 ```shell
 $ yum install epel-release -y
 $ yum install ansible -y
